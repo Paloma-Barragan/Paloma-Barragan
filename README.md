@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Paloma Barragán
+ 💬 Ask me about football 
+ 🚀🌱 Learning 
+ 👍
 
 <!--
 **Paloma-Barragan/Paloma-Barragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
